@@ -1,0 +1,12 @@
+Notes Taking App.
+   User Routes
+      ->/users/register 
+      ->/users/login
+
+For below routes to work the users need to be authenticated (should have a token)
+   Notes Routes
+      ->/notes/create
+      ->/notes
+      ->/notes/update/:noteId
+      ->/notes/delete/:noteId
+      
